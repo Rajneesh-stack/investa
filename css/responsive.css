@@ -1,0 +1,388 @@
+
+@media(max-width:1024px){
+    .out1 .out1-1 .fa-solid {
+        padding-left: 50px;
+    }
+    .out1 .out1-3 {
+        width: 35%;
+    }
+    .out2-2-1 p{
+        padding-left: 5px;
+    }
+    .out2-2-2 li a{
+        padding: 10px 10px;
+    }
+    .out2-2-3 .fa-solid {
+        display: none;
+    }
+    .sec1 .sec1-1{
+        padding-left: 20px;
+    }
+    .sec1 .sec1-2{
+        padding-left: 20px;
+    
+    }
+    .section2 .sec2-2 .sec2-2-1{
+        width: 30%;
+    }
+    .sec2-2-1 .inner1 img {
+        object-fit: cover;
+    }
+    .section4 .sec4-2 .sec4-2-1{
+        width: 30%;
+    }
+    .sec5-2-2content p{
+        padding-left: 40px;
+    }
+    .sec5-2-2content h4 {
+        padding-left: 75px;
+    }
+    .footer .foot1{
+        width: 45%;
+    }
+    .footer .foot2{
+        width: 45%;
+    }
+    .footer .foot3{
+        width: 45%;
+    }
+    .footer .foot4{
+        width: 45%;
+    }
+    .footer .foot1 button{
+        left: 265px;
+    }
+}
+@media(max-width:768px){
+    .out1 .out1-1 .fa-solid{
+        padding-left: 35px;
+        font-size: 1rem;
+    }
+    .out1 .out1-1 p {
+        padding-left: 5px;
+        font-size: 1rem;
+    }
+    .out1 .out1-1 a{
+        padding-left: 5px;
+        font-size: 1rem;
+    }
+    .out1 .out1-3 .fa-brands{
+        padding: 10px 15px;
+        font-size: 1.1rem;
+    }
+    .out2{
+        background-color: white;
+    }
+    .out2-2-1 .fa-solid{
+        font-size: 2.5rem;
+        padding-left: 5px;
+    }
+    .out2-2-1 p{
+        font-size: 2.5rem;
+        padding-top: 15px;
+    }
+    .out2-2 .out2-2-3{
+        display: none;
+    }
+    .out2-2 .out2-2-2{
+        width: 75%;
+    }
+    .out2-2-2 li a{
+        padding: 0px 15px;
+        font-size: 1.2rem;
+    }
+    .hero-inner h2{
+        font-size: 2.8rem;
+    }
+    .hero-inner p{
+        padding-left: 100px;
+        font-size: 1.2rem;
+    }
+    .hero-inner .apply{
+        width: 140px;
+        font-size: 1.1rem;
+    }
+    .hero-inner .apply{
+        width: 140px;
+        font-size: 1.1rem;
+    }
+    .sec1 .sec1-1{
+        padding-left: 20px;
+    }
+    .sec1 .sec1-2{
+        padding-left: 20px;
+    }
+    .section2 .sec2-2 .sec2-2-1{
+        width: 40%;
+    }
+    .sec2-2-1 .inner1 img {
+        object-fit: cover;
+    }
+    .sec2 h2{
+        font-size: 2rem;
+    }
+    .section1 .sec2 p{
+        font-size: 0.9rem;
+    }
+    .sec2 .four .four1 .four1-1{
+        font-size: 0.9rem;
+        padding-top: 15px;
+    }
+    .section2 .sec2-1 h3{
+        font-size: 3rem;
+        padding-left: 100px;
+    }
+    .section3 .sec3-2 .sec3-2-1{
+        width: 80%;
+        margin: 80px 0px;
+        overflow: hidden;
+    }
+    .section3 .sec3-1 h3 {
+        font-size: 3rem;
+        padding-left: 115px;
+    }
+    .section4 .sec4-2 .sec4-2-1{
+        width: 40%;
+        margin-top: 50px;
+    }
+    .section4 .sec4-1 h3{
+        font-size: 3rem;
+    }
+    .section5 .sec5-1{
+        width: 70%;
+    }
+    .section5 .sec5-2{
+        width: 40%;
+    }
+    .sec5-2-1 p {
+        padding-left: 30px;
+    }
+    .footer .foot1 button{
+        left: 175px;
+    }
+    .form-container {
+        padding: 15px;
+    }
+
+    .registration-form h1 {
+        font-size: 1.2em;
+    }
+
+    .form-group input,
+    .form-group select {
+        font-size: 0.9em;
+    }
+
+    .form-group button {
+        font-size: 0.9em;
+    }
+}
+@media (max-width:576px) {
+    .out1 .out1-1 .fa-solid.fa-phone{
+        display: none;
+    }
+    .out1 .out1-1 .fa-solid.fa-envelope{
+        display: none;
+    }
+    .out1 .out1-3 .fa-brands{
+        padding: 10px 13px;
+        font-size: 1.1rem;
+    }
+    .out1 .out1-1 a {
+        display: none;
+    }
+    .out1 .out1-2{
+        width: 0%;
+    }
+    .out2-2-1 .fa-solid{
+        font-size: 2rem;
+    }
+    .out2 .out2-2{
+        height: 70px;
+    }
+    .out2-2-1 p{
+        font-size: 2rem; 
+    }
+    .out2-2-2 ul{
+        display: none
+    }
+    .hero-inner h2{
+        font-size: 1.8rem;
+    }
+    .hero-inner p{
+        padding-left: 30px;
+        font-size: 1rem;
+    }
+    .hero-inner .apply{
+        font-size: 0.8rem;
+    } 
+    .hero-inner .read{
+        font-size: 0.8rem; 
+    }
+    .section1 .sec1{
+        width: 95%;
+    }
+    .section1 .sec2 {
+        width: 100%;
+    }
+    .sec2 h2 {
+        font-size: 2rem;
+    }
+    .sec2 .four .four1 .four1-1{
+        font-size: 1rem;
+        padding-left: 15px;
+    }
+    .sec2 .card .card1{
+        width: 325px;
+    }
+    .sec2 .card .card2{
+        width: 325px;
+    }
+    .section2{
+        margin-top: 50px;
+    }
+    .section2 .sec2-1{
+        min-height: 200px;
+        width: 100%;
+    }
+    .section2 .sec2-1 h3{
+        font-size: 1.5rem;
+        padding-left: 30px;
+        width: 100%;
+    }
+    .section2 .sec2-2 .sec2-2-1{
+        width: 65%;
+    }
+    .section3{
+        margin-top: 50px;
+    }
+    .section3 .sec3-1{
+        min-height: 250px;
+    }
+    .section3 .sec3-1 p{
+    padding-left: 25px;
+    padding-bottom: 30px;
+    }
+    .section3 .sec3-1 h3{
+        padding-left: 50px;
+        width: 100%;
+        font-size: 3rem;
+    }
+    .section3 .sec3-2 .sec3-2-1{
+        margin: 50px 0px ;
+        width: 95%;
+    }
+    .section4 .sec4-1{
+        min-height: 150px;
+    }
+    .section4 .sec4-1 h3{
+        font-size: 2.3rem;
+    }
+    .section4 .sec4-2 .sec4-2-1 {
+        width: 70%;
+        margin-top: 90px;
+    }
+    .section5 .sec5-1{
+        width: 100%;
+        padding-left: 50px;
+    }
+    .section5 .sec5-2{
+        width: 70%;
+        margin-top: 40px;
+    }
+    .footer .foot1{
+        width: 70%;
+    }
+    .footer .foot1 p{
+        font-size: 1rem;
+    }
+    .footer .foot2{
+        width: 70%;
+    }
+    .footer .foot3{
+        width: 70%;
+    }
+    .footer .foot3 h4{
+        padding-bottom: 20px;
+    }
+    .footer .foot3 .fa-solid{
+        font-size: 1.4rem;
+    }
+    .footer .foot3 span{
+        font-size: 1rem;
+    }
+    .footer .foot3 a{
+        font-size: 1rem;
+    }
+    .footer .foot3 .fa-brands{
+        font-size: 1.5rem;
+    }
+    .footer .foot4{
+        width: 70%;  
+    }
+    .footer .foot2 h4{
+        padding-top: 60px;
+    }
+    .footer .foot4 h5{
+        padding-top: 10px;
+        font-size: 1rem;
+    }
+    .footer .foot4 p{
+        font-size: 1rem;
+    }
+    .claim h5{
+        font-size: 0.7rem;
+    }
+    .form-container{
+        width: 90%;
+    }
+}
+@media (max-width:320px) {
+    .out1 .out1-3 .fa-brands{
+        padding: 10px 10px;
+        font-size: 1.1rem;
+    }
+    .hero-inner .apply{
+        font-size: 0.8rem;
+    } 
+    .hero-inner .read{
+        font-size: 0.8rem; 
+    }
+    .section1 .sec1{
+        width: 98%;
+    }
+    .sec1 .sec1-1{
+        padding-left: 5px;
+    }
+    .sec1 .sec1-2{
+        padding-left: 5px;
+    }
+    .section2 .sec2-2 .sec2-2-1{
+        width: 90%;
+    }
+    .section3 .sec3-2 .sec3-2-1{
+        width: 95%;
+    }
+    .sec3-2-1 .sec3-2-1-inner h4{
+        font-size: 1.4rem;
+    }
+    .sec3-2-1 .sec3-2-1-inner button{
+        margin-top: 15px;
+    }
+    .section4 .sec4-2 .sec4-2-1{
+        width: 100%;
+    }
+    .sec5-1 p{
+        padding-top: 15px;
+        font-size: 1rem;
+    }
+    .section5 .sec5-2{
+        width: 90%;
+    }
+    .footer .foot1{
+        width: 100%;
+    }
+    .footer .foot3{
+        width: 85%;
+    }
+}
